@@ -1,10 +1,10 @@
->[[Eitus]] (märk **¬**) NOT-gate.
+>Eitus (märk **¬**) NOT-gate.
 
->[Konjunktsiooni](Konjunktsioon.md) (märk **∧** või **&**)  "ja" või "ning". (Töötab nagu "AND-Gate")
+>Konjunktsiooni (märk **∧** või **&**)  "ja" või "ning". (Töötab nagu "AND-Gate")
 
->[Disjunktsiooni](Disjunktsioon.md) (märk **∨**) "või". (Töötab täpselt nagu OR-gate mitte XOR-gate)
+>Disjunktsiooni (märk **∨**) "või". (Töötab täpselt nagu OR-gate mitte XOR-gate)
 
->[[Implikatsioon]] (märk ⇒ või →) väljendab tingimuslikku konstruktsiooni (valem on **tõene** siis, kui A on **väär** või B on **tõene**)
+>Implikatsioon (märk ⇒ või →) väljendab tingimuslikku konstruktsiooni (valem on **tõene** siis, kui A on **väär** või B on **tõene**)
 
 >[[Ekvivalents]] (märk ⇔ või ↔) tõene siis, kui A ja B on **mõlemad** väärad või tõesed
 
