@@ -6,7 +6,7 @@
 
 >Implikatsioon (märk ⇒ või →) väljendab tingimuslikku konstruktsiooni (valem on **tõene** siis, kui A on **väär** või B on **tõene**)
 
->[[Ekvivalents]] (märk ⇔ või ↔) tõene siis, kui A ja B on **mõlemad** väärad või tõesed
+>Ekvivalents (märk ⇔ või ↔) tõene siis, kui A ja B on **mõlemad** väärad või tõesed
 
 |  Tehe |Seos   | Tähis  |
 |---|---|---|
