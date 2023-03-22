@@ -18,9 +18,9 @@
 
 | A  | B  | A ∧ B  | A ∨ B  |  A ⇒ B |  A ⇔ B | ¬A  |
 |---|---|---|---|---|---|---|
-|  t |t   | t  | t  |  t |  t | v  |
-| t  | v  |  t | v  | v  | v  | v  |
-| v  | t  |  v |  t |  t |  v | t  |
+| t  | t  | t  | t  |  t |  t | v  |
+| t  | v  | v  | v  |  v |  v | v  |
+| v  | t  | v  | t  |  t |  v | t  |
 | v  | v  | v  | v  |  t |  t | t  |
 
 >Tehete järjekord: ¬ ∧ ∨ ⇒ ⇔
