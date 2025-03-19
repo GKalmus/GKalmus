@@ -6,7 +6,7 @@
                `+oooooo:                 Shell: zsh 5.9
                -+oooooo+:                WM: i3
              `/:-:++oooo+:               Terminal: alacritty
-            `/++++/+++++++:              Programmeerimiskeeles: Java, Python, C++, Rust
+            `/++++/+++++++:              Programmeerimiskeeled: Java, Python, C++, Rust
            `/++++++++++++++:             Oskused: Linux, Unix, Vim, SSH, Git, Excel
           `/+++ooooooooooooo/`           Algtase: DevOps, Kubernetes
          ./ooosssso++osssssso+`          Keeled:
