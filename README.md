@@ -7,7 +7,7 @@
                -+oooooo+:                WM: i3
              `/:-:++oooo+:               Terminal: alacritty
             `/++++/+++++++:              Programmeerimiskeeled: Java, Python, C++, Rust
-           `/++++++++++++++:             Oskused: Linux, Unix, Vim, SSH, Git, Excel
+           `/++++++++++++++:             Oskused: Linux, Unix, Ansible, Vim, SSH, Git, Excel
           `/+++ooooooooooooo/`           Algtase: DevOps, Kubernetes
          ./ooosssso++osssssso+`          Keeled:
         .oossssso-````/ossssss+`            eesti: emakeel
